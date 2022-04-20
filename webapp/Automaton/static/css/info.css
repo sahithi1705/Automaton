@@ -1,0 +1,33 @@
+body{
+	padding:0px;
+	margin:0px;
+	background-color:black;
+	color:white;
+}
+.top{
+	height:100px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	background:grey;
+	padding:0 20 0 0;
+	background-image:url("/static/images/top.jpg");
+}
+#logo img{
+	height:100px;
+	width:100px;
+}
+#home svg{
+	color:white;
+	height:50px;
+	width:50px;
+}
+#container1{
+	display:flex;
+	justify-content: space-between;
+}
+#previous{
+	margin:10px;
+	color:blue;
+	font-size:30px;
+}	

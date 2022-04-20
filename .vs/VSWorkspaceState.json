@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myenv",
+    "\\webapp",
+    "\\webapp\\Automaton",
+    "\\webapp\\Automaton\\static",
+    "\\webapp\\Automaton\\static\\css",
+    "\\webapp\\Automaton\\templates",
+    "\\webapp\\webapp"
+  ],
+  "SelectedNode": "\\webapp\\Automaton\\views.py",
+  "PreviewInSolutionExplorer": false
+}
